@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Swthelper
+Bundle-SymbolicName: org.eclipse.rap.swthelper
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.swt;bundle-version="3.102.0",
+ org.eclipse.rap.featurebrowser;bundle-version="1.0.0"
+Import-Package: org.osgi.framework
